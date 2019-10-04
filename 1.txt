@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Creating 1.txt on new1
+=======
+Creating 1.txt on new2
+>>>>>>> new2
